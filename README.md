@@ -1,5 +1,5 @@
 
-# AI-Powered Predictive Maintenance (No Hardware!) — Kid-Friendly Project
+# AI-Powered Predictive Maintenance (No Hardware!)
 
 **Goal:** Make a smart helper that watches a machine’s *temperature*, *vibration*, and *current*.
 It warns us **before** the machine gets sick. We will **simulate** the machine (no sensors needed).
