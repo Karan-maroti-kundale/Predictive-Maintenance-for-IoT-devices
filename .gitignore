@@ -1,9 +1,6 @@
 Explain project in Interview.txt
 How to execute this project.txt
 
-# Model files
-*.h5
-*.pkl
 
 # VS Code settings
 .vscode/
